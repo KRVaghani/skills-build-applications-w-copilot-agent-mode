@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-wa61jgpmqpmn7z4yqt_nf+s1esli(if5a#@zc9xqjhmtb-t@jr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['jubilant-cod-vr7xq6rjq73p7qv-8000.app.github.dev', 'localhost']
 
 # Ensure INSTALLED_APPS is properly defined before appending additional apps
 INSTALLED_APPS = [
